@@ -1,7 +1,8 @@
 # Life_Expectancy
-Life Expectancy Project
+Life Expectancy Predictions by Country
 
-Justin Tennenbaum 
+Justin Tennenbaum
+
 Paul Kruger 
 
 
