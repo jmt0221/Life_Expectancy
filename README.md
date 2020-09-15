@@ -26,9 +26,9 @@ In order to avoid having over 150 dummy variables, we mapped countries to their 
 ### OLS Regressions
 
 <p>
-<img src="https://github.com/jmt0221/Life_Expectancy/blob/master/Images/MLR.png" width="250" height="150">
-<img src="https://github.com/jmt0221/Life_Expectancy/blob/master/Images/poly_ridge.png" width="250" height="150">
-<img src="https://github.com/jmt0221/Life_Expectancy/blob/master/Images/poly.png" width="250" height="150">
+<img src="https://github.com/jmt0221/Life_Expectancy/blob/master/Images/MLR.png" width="250" height="200">
+<img src="https://github.com/jmt0221/Life_Expectancy/blob/master/Images/poly_ridge.png" width="250" height="200">
+<img src="https://github.com/jmt0221/Life_Expectancy/blob/master/Images/poly.png" width="250" height="200">
 </p>
 
 ### QQ Plot
