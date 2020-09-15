@@ -14,7 +14,7 @@ We used a robust dataset from the World Health Organization that included statis
 
 # Data Cleaning
 
-We chose to drop the following variables due to multi-collinearity:  Adult Mortality, Infant Deaths, Thinness (age 5-9), Diptheria, Polio.  We chose to drop the following variables due to missing values or bad data:  Hepatitis B, BMI, Country Developing Status.  We also dropped twenty countries due to excessive missing values.  We performed backwards elimination where we ran the model each time and dropped the following variables due to high P-values:  Total Expenditure on Health, Deaths under 5 years old, and Measles
+We chose to drop the following variables due to multi-collinearity:  Adult Mortality, Infant Deaths, Thinness (age 5-9), Diptheria, Polio.  We chose to drop the following variables due to missing values or bad data:  Hepatitis B, BMI, Country Developing Status.  We also dropped twenty countries due to excessive missing values.  We performed backwards elimination where we ran the model each time and dropped the following variables due to high P-values:  Total Expenditure on Health, Deaths under 5 years old, and Measles. We were left with 
 
 # Feature Engineering
 
@@ -24,13 +24,23 @@ In order to avoid having over 150 dummy variables, we mapped countries to their 
 
 
 ### OLS Regression
+
 <p align="center">
 <img src="https://github.com/jmt0221/Life_Expectancy/blob/master/Images/MLR.png" width="300" height="100">
 </p>
+
 ### QQ Plot
+<p align="center">
+<img src="https://github.com/jmt0221/Life_Expectancy/blob/master/Images/QQ.png" width="500" height="200">
+</p>
+
 ### Regression Plots for Schooling
-### KDE Plots for Thinness and Schooling
+<p align="center">
+<img src="https://github.com/jmt0221/Life_Expectancy/blob/master/Images/regression_plot.png" width="500" height="200">
+</p>
+
 ### Polynomial and Ridge Regression
+
 <p align="center">
 <img src="https://github.com/jmt0221/Life_Expectancy/blob/master/Images/poly_ridge.png" width="300" height="100">
 <img src="https://github.com/jmt0221/Life_Expectancy/blob/master/Images/poly.png" width="300" height="100">
