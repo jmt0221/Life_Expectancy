@@ -25,25 +25,25 @@ In order to avoid having over 150 dummy variables, we mapped countries to their 
 
 ### OLS Regression
 
-<p>
-<img src="https://github.com/jmt0221/Life_Expectancy/blob/master/Images/MLR.png" width="300" height="100">
+<p align="center">
+<img src="https://github.com/jmt0221/Life_Expectancy/blob/master/Images/MLR.png" width="400" height="200">
 </p>
 
 ### QQ Plot
 
-<p>
-<img src="https://github.com/jmt0221/Life_Expectancy/blob/master/Images/QQ.png" width="400" height="300">
+<p align="center">
+<img src="https://github.com/jmt0221/Life_Expectancy/blob/master/Images/QQ.png" width="450" height="300">
 </p>
 
 ### Regression Plots for Schooling
 
 <p align="center">
-<img src="https://github.com/jmt0221/Life_Expectancy/blob/master/Images/regression_plot.png" width="600" height="400">
+<img src="https://github.com/jmt0221/Life_Expectancy/blob/master/Images/regression_plot.png" width="700" height="400">
 </p>
 
 ### Polynomial and Ridge Regression
 
-<p>
+<p align="center">
 <img src="https://github.com/jmt0221/Life_Expectancy/blob/master/Images/poly_ridge.png" width="300" height="100">
 <img src="https://github.com/jmt0221/Life_Expectancy/blob/master/Images/poly.png" width="300" height="100">
 </p>
