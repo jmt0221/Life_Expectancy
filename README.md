@@ -42,7 +42,7 @@ In order to avoid having over 150 dummy variables, we mapped countries to their 
 ### Regression Plots for Schooling
 
 <p align="center">
-<img src="https://github.com/jmt0221/Life_Expectancy/blob/master/Images/regression_plot.png" width="700" height="400">
+<img src="https://github.com/jmt0221/Life_Expectancy/blob/master/Images/regression_plot.png" width="800" height="500">
 </p>
 
 ### Polynomial and Ridge Regression
