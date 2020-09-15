@@ -22,14 +22,19 @@ In order to avoid having over 150 dummy variables, we mapped countries to their 
 
 # Model
 
+
 ### OLS Regression
 <p align="center">
-<img src="https://github.com/jmt0221/Life_Expectancy/blob/master/Images/MLR.png" width="800" height="300">
+<img src="https://github.com/jmt0221/Life_Expectancy/blob/master/Images/MLR.png" width="300" height="100">
 </p>
 ### QQ Plot
 ### Regression Plots for Schooling
 ### KDE Plots for Thinness and Schooling
 ### Polynomial and Ridge Regression
+<p align="center">
+<img src="https://github.com/jmt0221/Life_Expectancy/blob/master/Images/poly_ridge.png" width="300" height="100">
+<img src="https://github.com/jmt0221/Life_Expectancy/blob/master/Images/poly.png" width="300" height="100">
+</p>
 
 # Final Conclusions
 
